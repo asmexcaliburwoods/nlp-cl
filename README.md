@@ -26,9 +26,9 @@ https://wordnet.princeton.edu/
 
 http://globalwordnet.org/
 
-http://compling.hss.ntu.edu.sg/omw/ - Open Multilingual Wordnet
+http://compling.hss.ntu.edu.sg/omw/ - Open Multilingual Wordnet - a full site backup: https://github.com/pragmatic-strain/omw
 
-http://compling.hss.ntu.edu.sg/omw/summx.html - Extended Open Multilingual Wordnet - Wordnet data http://compling.hss.ntu.edu.sg/omw/wn-wikt.tgz = http://compling.hss.ntu.edu.sg/omw/wn-wikt.zip = http://compling.hss.ntu.edu.sg/omw/wn-wikt.tar.bz2
+http://compling.hss.ntu.edu.sg/omw/summx.html - Extended Open Multilingual Wordnet - Wordnet data http://compling.hss.ntu.edu.sg/omw/wn-wikt.tgz = http://compling.hss.ntu.edu.sg/omw/wn-wikt.zip = http://compling.hss.ntu.edu.sg/omw/wn-wikt.tar.bz2  - a full site backup: https://github.com/pragmatic-strain/omw
 
 # OLAC Resources Ru #
 
