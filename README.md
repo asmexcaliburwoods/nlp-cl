@@ -8,7 +8,7 @@ https://forum.language-learners.org/viewtopic.php?t=5799 - ^F Russian
 extracted from Universal WordNet ( https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/uwn/ )
 created by Gerard de Melo at Max Planck Institut.
 It is distributed under its original CC-BY-NC-SA 3.0
-license. You'll find the license in [...]
+license. [...]
 
 //from https://github.com/pragmatic-strain/FreeLing/blob/master/COPYING
 
