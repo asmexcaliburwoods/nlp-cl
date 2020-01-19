@@ -1,4 +1,4 @@
-= ruwn =
+# ruwn #
 
 https://github.com/pragmatic-strain/RuWordNet - Various tools for generating and managing RuWordNet thesauri database
 
@@ -6,7 +6,7 @@ https://github.com/pragmatic-strain/RuWordNetView - Web interface for RuWordNet 
 
 https://github.com/Zebradil/DictionaryWebEditor - ???
 
-= RuThes + ruwn =
+# RuThes + ruwn #
 
 https://www.labinform.ru/pub/ruthes/
 
@@ -18,11 +18,11 @@ https://www.labinform.ru/pub/ruwordnet/Adj/te/00/000/index.htm Cписок те�
 
 https://www.labinform.ru/pub/ruwordnet/Verb/te/00/000/index.htm Cписок текстовых входов - ГЛАГОЛЫ
 
-= English WN =
+# English WN #
 
 https://wordnet.princeton.edu/
 
-= Global WN =
+# Global WN #
 
 http://globalwordnet.org/
 
@@ -30,7 +30,7 @@ http://compling.hss.ntu.edu.sg/omw/ - Open Multilingual Wordnet
 
 http://compling.hss.ntu.edu.sg/omw/summx.html - Extended Open Multilingual Wordnet - Wordnet data http://compling.hss.ntu.edu.sg/omw/wn-wikt.tgz = http://compling.hss.ntu.edu.sg/omw/wn-wikt.zip = http://compling.hss.ntu.edu.sg/omw/wn-wikt.tar.bz2
 
-= OLAC Resources Ru =
+# OLAC Resources Ru #
 
  *   Primary texts
  *   Lexical resources
@@ -40,7 +40,7 @@ http://compling.hss.ntu.edu.sg/omw/summx.html - Extended Open Multilingual Wordn
 
 http://www.language-archives.org/language/rus
 
-= Russian =
+# Russian #
 
 https://www.ethnologue.com/language/rus
 
@@ -81,5 +81,3 @@ Braille script [Brai]. Cyrillic script [Cyrl], primary usage.
 Other Comments
 
 Christian
-
-----
