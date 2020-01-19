@@ -1,3 +1,19 @@
+# Various Ru #
+
+https://forum.language-learners.org/viewtopic.php?t=5799 - ^F Russian
+
+----
+
+8. Data for Russian WordNet in file data/de/senses30.src is 
+extracted from Universal WordNet ( https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/uwn/ )
+created by Gerard de Melo at Max Planck Institut.
+It is distributed under its original CC-BY-NC-SA 3.0
+license. You'll find the license in the file
+LICENSES/CC-BY-NC-SA.license included in this package or at
+http://creativecommons.org/licenses/by-nc-sa/3.0
+
+//from https://github.com/pragmatic-strain/FreeLing/blob/master/COPYING
+
 # ruwn #
 
 https://github.com/pragmatic-strain/RuWordNet - Various tools for generating and managing RuWordNet thesauri database
