@@ -1,6 +1,6 @@
 # Various Ru
 
-Thanks to https://forum.language-learners.org/viewtopic.php?t=5799 for resources on Russian (some are listed below).
+Thanks to https://forum.language-learners.org/viewtopic.php?t=5799 for some resources on Russian (some are listed below).
 
 ----
 
