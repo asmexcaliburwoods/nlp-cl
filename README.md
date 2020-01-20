@@ -4,6 +4,8 @@ https://forum.language-learners.org/viewtopic.php?t=5799 - ^F Russian
 
 ----
 
+# FreeLing with Russian input
+
 8. Data for Russian WordNet in file data/de/senses30.src is 
 extracted from Universal WordNet ( https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/uwn/ )
 created by Gerard de Melo at Max Planck Institut.
@@ -11,6 +13,18 @@ It is distributed under its original CC-BY-NC-SA 3.0
 license. [...]
 
 //from https://github.com/pragmatic-strain/FreeLing/blob/master/COPYING
+
+[TS-114] Option 'Full Parsing' not available for language 'ru'. //from http://nlp.lsi.upc.edu/freeling/demo/demo.php FreeLing 4.1
+
+[TS-114] Option 'Semantic Graph' not available for language 'ru'. //from http://nlp.lsi.upc.edu/freeling/demo/demo.php FreeLing 4.1
+
+[TS-114] Option 'NE [Named Entity? --p.strain] Classification' not available for language 'ru'. //from http://nlp.lsi.upc.edu/freeling/demo/demo.php FreeLing 4.1 with [x] Named Entity classification
+
+[TS-114] Option 'Sense Annotation' not available for language 'ru'. //from http://nlp.lsi.upc.edu/freeling/demo/demo.php FreeLing 4.1 with [x] WN sense annotation: All senses 
+
+[TS-114] Option 'Sense Annotation' not available for language 'ru'. //from http://nlp.lsi.upc.edu/freeling/demo/demo.php FreeLing 4.1 with [x] WN sense annotation: UKB disambiguation
+
+[Empty] Analysis Results for utterance "Стол стоит" //from http://nlp.lsi.upc.edu/freeling/demo/demo.php FreeLing 4.1 with [x] No sense annotation and ([x] Morph. Analysis OR [x] PoS tagging)
 
 # ruwn #
 
