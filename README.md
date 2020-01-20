@@ -24,7 +24,9 @@ license. [...]
 
 [TS-114] Option 'Sense Annotation' not available for language 'ru'. //from http://nlp.lsi.upc.edu/freeling/demo/demo.php FreeLing 4.1 with [x] WN sense annotation: UKB disambiguation
 
-[Empty] Analysis Results for utterance "Стол стоит" //from http://nlp.lsi.upc.edu/freeling/demo/demo.php FreeLing 4.1 with [x] No sense annotation and ([x] Morph. Analysis OR [x] PoS tagging)
+[Empty] Analysis Results for utterance "Стол стоит" //from http://nlp.lsi.upc.edu/freeling/demo/demo.php FreeLing 4.1 with [x] No sense annotation and [x] PoS tagging
+
+[Empty] Analysis Results for utterance "Стол стоит" //from http://nlp.lsi.upc.edu/freeling/demo/demo.php FreeLing 4.1 with [x] No sense annotation and [x] Morph. Analysis
 
 # ruwn #
 
